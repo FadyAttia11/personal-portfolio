@@ -5,7 +5,7 @@ import { BsTwitter } from "react-icons/bs";
 
 const HeaderSocials = () => {
   return (
-    <div className="header__social">
+    <div className="header__socials">
       <a href="https://www.linkedin.com/in/fady-attia-01/" target="_blank">
         <BsLinkedin />
       </a>
